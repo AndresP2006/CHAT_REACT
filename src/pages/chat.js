@@ -7,7 +7,7 @@ class Chat extends Component {
       <div>
         <nav className="navbar navbar-light bg-primary">
           <a href="/" className="navbar-brand text-white">
-            Chat
+            Chat React
           </a>
         </nav>
         <div className="container p-5">
